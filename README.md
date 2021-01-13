@@ -1,4 +1,4 @@
-# <a href="https://dmjohnspor.github.io/pokedex_app/" target="_blank">`Movie App (with React.js and Bootstrap)`</a>
+# <a href="https://dmjohnspor.github.io/movie_app/" target="_blank">`Movie App (with React.js and Bootstrap)`</a>
 
 > Search for movies and save them in your favourites list. App made with React.js and Material-UI, using the OMDb API.<br>
 
